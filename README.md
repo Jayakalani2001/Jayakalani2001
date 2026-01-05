@@ -1,5 +1,5 @@
 <div align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" /></div>
-<h1 align="center">Hi , I'm Kalani Senevirathne</h1>
+<h1 align="center">Hi , I'm Jayakalani Senevirathne</h1>
 <h3 align="center">
 Electrical & Electronics Engineering Undergraduate | Electronics | IoT ML & AI Enthusiast
 </h3>
